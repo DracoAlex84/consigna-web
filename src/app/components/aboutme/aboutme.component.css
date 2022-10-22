@@ -1,0 +1,21 @@
+  .image{
+    display: flex;
+    height: 15rem;
+    float: right;
+    margin-right: 20rem;
+  }
+  p{
+    margin: 0.5rem;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+  }
+
+  .linkedIn{
+    margin: 0.5rem;
+  }
+
+  .instagram{
+    margin: 0.5rem;
+  }
+
+  

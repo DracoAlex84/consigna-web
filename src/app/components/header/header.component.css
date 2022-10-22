@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/5/57/Doom_cover_art.jpg");
+}
+
+menu{
+    background: #547AA5;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: auto;
+}
+menu ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+menu ul li a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+}
