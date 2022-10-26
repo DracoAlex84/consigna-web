@@ -12,13 +12,15 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     AppComponent,
     HeaderComponent,
     JuegosComponent,
-    AboutmeComponent
+    AboutmeComponent,
   ],
+
   imports: [
     BrowserModule,
     AppRoutingModule,
     NgbModule,
   ],
+
   providers: [],
   bootstrap: [AppComponent]
 })

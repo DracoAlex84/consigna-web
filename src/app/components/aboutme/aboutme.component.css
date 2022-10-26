@@ -1,21 +1,20 @@
-  .image{
-    display: flex;
-    height: 15rem;
-    float: right;
-    margin-right: 20rem;
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
   }
-  p{
-    margin: 0.5rem;
+
+ 
+  .container{
+    display: block;
+    padding: 0 5px;
+    justify-content: row;
+    align-items: center;
+  }
+
+ 
+p{
     font-family: 'Bebas Neue', cursive;
     font-weight: bold;
-  }
-
-  .linkedIn{
-    margin: 0.5rem;
-  }
-
-  .instagram{
-    margin: 0.5rem;
-  }
-
-  
+}
+   
